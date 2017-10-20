@@ -13,7 +13,7 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 import org.telegram.telegrambots.exceptions.TelegramApiRequestException;
 
 /**
- * Created by Ermin Kameric on 29.09.2017.
+ * Created by Leon Bahl on 29.09.2017.
  */
 public class BotStarter {
 
