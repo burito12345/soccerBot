@@ -12,7 +12,7 @@ public class SoccerBot extends TelegramLongPollingBot {
     public void onUpdateReceived(Update update) {
 
         if (update.hasMessage() && update.getMessage().hasText()) {
-            
+
         }
     }
 
