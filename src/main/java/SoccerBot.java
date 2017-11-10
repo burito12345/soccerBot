@@ -3,9 +3,7 @@ import org.telegram.telegrambots.api.objects.Update;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 
-/**
- * Created by Ermin Kameric on 20.10.2017.
- */
+
 public class SoccerBot extends TelegramLongPollingBot {
 
 
